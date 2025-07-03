@@ -1,0 +1,28 @@
+# Folte package list
+
+# --- desktop experience ---
+xfce4
+xfce4-terminal
+xfce4-power-manager
+xfce4-whiskermenu-plugin
+mousepad
+
+# --- utility ---
+firefox-esr
+thunderbird
+
+# --- display manager ---
+lightdm
+slick-greeter
+
+# --- package-manager ---
+nala
+synaptic
+gdebi
+
+# --- installer ---
+calamares
+
+# --- system ---
+network-manager
+fonts-noto

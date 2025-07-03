@@ -1,0 +1,5 @@
+[user]
+forceIconSize=false
+showPreviews=true
+showWindowCount=false
+pinned=/usr/share/applications/firefox-esr.desktop;/usr/share/applications/thunderbird.desktop;/usr/share/applications/thunar.desktop;/usr/share/applications/xfce4-terminal.desktop;

@@ -1,0 +1,12 @@
+[ActivityManager]
+_k_friendly_name=Activity Manager
+switch-to-activity-aa95cabc-0766-47cd-b28f-923ada11e8c3=none,none,Switch to activity "Default"
+
+[systemsettings.desktop]
+_k_friendly_name=KDE システム設定
+_launch=Tools,Tools,KDE システム設定
+kcm-kscreen=none,none,Display Configuration
+kcm-lookandfeel=none,none,グローバルテーマ
+kcm-users=none,none,ユーザ
+powerdevilprofilesconfig=none,none,電力節電
+screenlocker=none,none,画面ロック
